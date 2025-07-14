@@ -16,16 +16,17 @@
 
 ### 🌸 Connect With Me
 <p align="left">
-  <a href="https://twitter.com/__dannielle_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-__dannielle_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/__dannielle_" target="_blank">
+    <img src="https://img.shields.io/badge/X-__dannielle_-ffb6c1?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/dannguyen24" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-dannguyen24-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-dannguyen24-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/dannguyen24" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-dannguyen24-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-dannguyen24-db7093?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
