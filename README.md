@@ -1,5 +1,5 @@
-<h1 align="center">🌸 Hi there ~ I'm Dannielle 🌸</h1>
-<h3 align="center">✨ Rising Junior @ George Mason University ✨</h3>
+<h1 align="center">Hi there ~ I'm Dannielle</h1>
+<h3 align="center">Rising Junior @ George Mason University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dannguyen24&label=Profile%20views&color=ff69b4&style=flat" alt="dannguyen24" />
