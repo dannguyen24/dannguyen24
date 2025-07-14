@@ -66,10 +66,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dannguyen24&show_icons=true&locale=en&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannguyen24&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
-</p>
 
 ---
 
-<p align="center">✨ Thanks for visiting! Have a magical day 🌷</p>
+<p align="center">🌷 Thanks for visiting~ Have a cutesy day 🌷</p>
