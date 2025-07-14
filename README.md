@@ -15,7 +15,7 @@
 ---
 
 ### 🌸 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://x.com/__dannielle_" target="_blank">
     <img src="https://img.shields.io/badge/X-__dannielle_-ffb6c1?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
