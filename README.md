@@ -1,10 +1,6 @@
 <h1 align="center">Hi there ~ I'm Dannielle</h1>
 <h3 align="center">A rising junior at George Mason University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannguyen24&label=Profile%20views&color=0e75b6&style=flat" alt="dannguyen24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dannguyen24" alt="dannguyen24" /></a> </p>
-
 - 🔭 I’m currently working on [Dine With Locals](https://github.com/im-anhat/dine-with-locals)
 
 - 🌱 I’m currently learning **React Native, RAG, and AWS**
@@ -24,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dannguyen24&show_icons=true&locale=en" alt="dannguyen24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dannguyen24&" alt="dannguyen24" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dannguyen24&label=Profile%20views&color=0e75b6&style=flat" alt="dannguyen24" /> </p>
+
