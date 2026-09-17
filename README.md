@@ -1,6 +1,6 @@
 Hello!
 
-I'm a CS student at George Mason University• Incoming SWE Intern @ Parsons • Currently SWE Intern @ CoStar Group
+I'm a CS student at George Mason University• Current SWE Intern @ Parsons • EX-SWE Intern @ CoStar Group
 
 I build full-stack applications and developer tooling — recently focused on automation, semantic search, and AI-powered products. 
 
